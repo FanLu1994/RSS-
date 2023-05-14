@@ -6,7 +6,7 @@
     <body>
         <outline text="199it" xmlUrl="http://110.42.182.92:1200/199it" type="rss20" title="199it" htmlUrl="http://www.199it.com/newly"/>
         <outline text="AI研习社" xmlUrl="http://110.42.182.92:1200/aiyanxishe/109/hot" type="rss20" title="AI研习社" htmlUrl="https://ai.yanxishe.com/"/>
-        <outline text="数据库内核月报" xmlUrl="http://110.42.182.92:1200/aliyun/database_month" type="rss20" title="数据库内核月报" htmlUrl="http://mysql.taobao.org/monthly/"/>
+        <outline text="PolarDB 数据库内核月报" xmlUrl="http://110.42.182.92:1200/aliyun/database_month" type="rss20" title="PolarDB 数据库内核月报" htmlUrl="http://mysql.taobao.org/monthly/"/>
         <outline text="技术头条" xmlUrl="http://110.42.182.92:1200/blogread/newest" type="rss20" title="技术头条" htmlUrl="http://blogread.cn/news/newest.php"/>
         <outline text="DockOne.io" xmlUrl="http://110.42.182.92:1200/dockone/weekly" type="rss20" title="DockOne.io" htmlUrl="http://weekly.dockone.io"/>
         <outline text="GitHub File - guanguans/favorite-link/master/README.md" xmlUrl="http://110.42.182.92:1200/github/file/guanguans/favorite-link/master/README.md" type="rss20" title="GitHub File - guanguans/favorite-link/master/README.md" htmlUrl="https://github.com/guanguans/favorite-link/commits/master/README.md"/>
@@ -30,6 +30,7 @@
         <outline text="不安分的小QA" xmlUrl="https://api.feeddd.org/feeds/61414b6c1269c358aa11378b" type="rss20" title="不安分的小QA" htmlUrl="https://mp.weixin.qq.com"/>
         <outline text="Jason" xmlUrl="https://atjason.com/atom.xml" type="atom10" title="Jason" htmlUrl="https://atjason.com/"/>
         <outline text="Yuko's Blog" xmlUrl="https://blog.amamiyayuuko.com/index.xml" type="rss20" title="Yuko's Blog" htmlUrl="https://blog.amamiyayuuko.com/"/>
+        <outline text="柴禾" xmlUrl="https://blog.brulligno.com/feed?format=xml" type="rss20" title="柴禾" htmlUrl="https://blog.brulligno.com"/>
         <outline text="云风的 BLOG" xmlUrl="https://blog.codingnow.com/atom.xml" type="atom10" title="云风的 BLOG" htmlUrl="https://blog.codingnow.com/"/>
         <outline text="唐巧的博客" xmlUrl="https://blog.devtang.com/atom.xml" type="atom10" title="唐巧的博客" htmlUrl="https://blog.devtang.com/"/>
         <outline text="重归混沌的BLOG" xmlUrl="https://blog.gotocoding.com/feed" type="rss20" title="重归混沌的BLOG" htmlUrl="https://blog.gotocoding.com"/>
@@ -68,6 +69,7 @@
         <outline text="保罗的小宇宙" xmlUrl="https://paugram.com/feed/" type="rss20" title="保罗的小宇宙" htmlUrl="https://paugram.com/"/>
         <outline text="YeungYeah 的乱写地" xmlUrl="https://scottyeung.top/atom.xml" type="rss20" title="YeungYeah 的乱写地" htmlUrl="https://scottyeung.top/"/>
         <outline text="usubeni fanstay" xmlUrl="https://ssshooter.com/rss.xml" type="rss20" title="usubeni fanstay" htmlUrl="https://ssshooter.com"/>
+        <outline text="酷家乐研发团队" xmlUrl="https://tech.kujiale.com/rss/" type="rss20" title="酷家乐研发团队" htmlUrl="https://tech.kujiale.com/"/>
         <outline text="美团技术团队" xmlUrl="https://tech.meituan.com/feed/" type="rss20" title="美团技术团队" htmlUrl="https://tech.meituan.com/feed/"/>
         <outline text="博文 on Pangzi's Blog" xmlUrl="https://toast.pub/totoro/posts/index.xml" type="rss20" title="博文 on Pangzi's Blog" htmlUrl="http://toast.pub/totoro/posts/"/>
         <outline text="Tony Bai" xmlUrl="https://tonybai.com/feed/" type="rss20" title="Tony Bai" htmlUrl="https://tonybai.com"/>
